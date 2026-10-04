@@ -1,0 +1,4 @@
+name,kind,formula,method,Z,energy_cell_eV,Fvib_kj_mol_formula,PV_kj_mol_formula,Sconfig_J_mol_K,temperature_K
+form_A,crystal,C7H6O2,SYNTHETIC,4,-400,15,0,0,298.15
+form_B,crystal,C7H6O2,SYNTHETIC,2,-199.95,14,0,0,298.15
+quenched_box,amorphous_proxy,C7H6O2,SYNTHETIC,8,-799.5,16,0,4,298.15

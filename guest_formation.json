@@ -1,0 +1,9 @@
+{
+  "g_product_kj_mol": -1002.0,
+  "g_parent_kj_mol": -900.0,
+  "mu_guest_standard_kj_mol": -100.0,
+  "n_guest": 1,
+  "temperature_K": 298.15,
+  "method": "SYNTHETIC DATA ONLY",
+  "guest_standard_state": "pure liquid guest at 298.15 K; synthetic demonstration"
+}

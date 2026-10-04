@@ -1,0 +1,10 @@
+{
+  "temperature_K": 298.15,
+  "method": "SYNTHETIC DATA ONLY",
+  "standard_states": "pure solids, synthetic 1:1 cocrystal",
+  "species": [
+    {"name": "API", "coefficient": -1, "composition": {"C": 7, "H": 6, "O": 2}, "G_kj_mol": -100},
+    {"name": "coformer", "coefficient": -1, "composition": {"C": 6, "H": 6, "N": 2, "O": 1}, "G_kj_mol": -80},
+    {"name": "cocrystal", "coefficient": 1, "composition": {"C": 13, "H": 12, "N": 2, "O": 3}, "G_kj_mol": -185}
+  ]
+}
